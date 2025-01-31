@@ -1,4 +1,3 @@
-- 🔭 I’m currently working on Trustly Inc.
 - 📖 Self-taught based, always learning something...
 - 🌱 I’m currently learning Python, deeping in Linux and Kubernetes and working as a SRE.
 - 💬 Ask me about Cloud, Microservices and... Containers! 
